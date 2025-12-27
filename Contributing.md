@@ -1,9 +1,11 @@
-# Contributing to FEM-CARE AI 💙
+# Contributing to FEM-CARE 💙
 
 Thank you for your interest in contributing to **FEM-CARE AI**!  
 This project is part of **Geekhaven OpenCode** and follows a beginner-friendly, structured contribution workflow.
 
-FEM-CARE AI focuses on women’s health, PCOS severity prediction, symptom tracking, trend analysis, personalized wellness tips, and an empathetic mental-health chatbot.
+FEM-CARE focuses on women’s health, PCOS severity prediction, symptom tracking, trend analysis, personalized wellness tips, and an empathetic mental-health chatbot.
+
+## NOTE: This is a female only repository. Only PRs from female contributors will be accepted.
 
 ---
 
@@ -22,8 +24,8 @@ FEM-CARE AI focuses on women’s health, PCOS severity prediction, symptom track
 
 ##  Mandatory Beginner Task
 
-### 0. Add your name to `CONTRIBUTORS.md` (5 points)
-Add the following details to the `CONTRIBUTORS.md` file:
+### 0. Add your name to `CONTRIBUTORS`
+Add the following details to the `<ENROLLMENT_NUMBER>.md` file:
 * Your Name
 * GitHub Profile Link
 * Contribution Role (Frontend / Backend / ML / Docs / Design)
@@ -34,7 +36,7 @@ Add the following details to the `CONTRIBUTORS.md` file:
 
 ##  Local Development Setup
 
-Follow the steps below to set up **FEM-CARE AI** on your local machine.
+Follow the steps below to set up **FEM-CARE** on your local machine.
 
 ###  Prerequisites
 Ensure the following tools are installed:
@@ -46,12 +48,12 @@ Ensure the following tools are installed:
 ###  1. Fork & Clone
 ```bash
 # Fork the repo on GitHub first, then clone your fork
-git clone [https://github.com/](https://github.com/)<your-username>/fem-care-ai.git
-cd fem-care-ai
+git clone [https://github.com/](https://github.com/)<your-username>/Fem-care.git
+cd Fem-care
 ```
 ###  2. Backend Setup
 ```bash
-cd server
+cd backend
 npm install
 
 # Setup Environment Variables
@@ -65,14 +67,14 @@ npm run dev
 ### 3. Frontend Setup
 ```bash
 # Open a new terminal
-cd client
+cd frontend
 npm install
 npm run dev
 # Frontend runs on: http://localhost:3000
 ```
 ### 4. Machine Learning Setup
 ```bash
-cd server/ml
+cd ml-service
 pip install -r requirements.txt
 
 # Train the model (generates model.pkl)

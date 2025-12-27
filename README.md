@@ -1,6 +1,6 @@
-# FEM-CARE AI
+# FEM-CARE 
 
-FEM-CARE AI is an artificial intelligence–powered women’s health assistance platform designed to help users understand and manage symptoms related to PCOS (Polycystic Ovary Syndrome) and hormonal health challenges. The platform combines machine learning, symptom tracking, data visualization, and an empathetic wellness chatbot to provide personalized insights and emotional support in a single, unified application.
+FEM-CARE is an artificial intelligence–powered women’s health assistance platform designed to help users understand and manage symptoms related to PCOS (Polycystic Ovary Syndrome) and hormonal health challenges. The platform combines machine learning, symptom tracking, data visualization, and an empathetic wellness chatbot to provide personalized insights and emotional support in a single, unified application.
 
 FEM-CARE AI focuses on accessibility, privacy, and user comfort, offering actionable wellness guidance rather than clinical diagnosis.
 
@@ -10,7 +10,7 @@ FEM-CARE AI focuses on accessibility, privacy, and user comfort, offering action
 
 PCOS affects a significant portion of the global female population, yet early awareness, consistent symptom tracking, and emotional support remain limited. Many users struggle to interpret symptoms or track long-term changes in their health.
 
-FEM-CARE AI aims to bridge this gap by providing intelligent symptom analysis, progress tracking, and mental wellness support in a safe and easy-to-use digital platform.
+FEM-CARE aims to bridge this gap by providing intelligent symptom analysis, progress tracking, and mental wellness support in a safe and easy-to-use digital platform.
 
 ---
 
@@ -107,10 +107,12 @@ Database:
 
 Contributions are welcome in frontend development, backend APIs, machine learning, testing, and documentation.
 
-Please add your name to CONTRIBUTORS.md to receive proper attribution.
-
 ---
 
 ## Disclaimer
 
 FEM-CARE AI is intended for educational and wellness support purposes only. It does not replace professional medical advice, diagnosis, or treatment. Users should consult qualified healthcare professionals for medical concerns.
+
+---
+
+## NOTE: This is a female only repository. Only PRs from female contributors will be accepted.
